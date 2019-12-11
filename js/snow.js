@@ -39,7 +39,3 @@ $(function(){
 	    newOn: 300  /* 定义密集程度，数字越小越密集 */
     });
 });
-
-作者：donlex
-链接：http://www.imooc.com/article/272005
-来源：慕课网
